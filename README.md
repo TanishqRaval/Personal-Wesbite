@@ -18,5 +18,5 @@ It showcases my skills, projects, experience, and contact information in a clean
 - Version Control:** Git & GitHub  
 - **Deployment:** (e.g. GitHub Pages / Vercel / Netlify)
 
-## 📂 Project Structure
+
 
